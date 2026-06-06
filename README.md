@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-in-sad-memories/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tangled In Sad Memories](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-sad-memories/) |
+| **Get License** | [Get License For Tangled In Sad Memories](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-sad-memories/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can still feel your breath against my skin
+> Dancing with the ghosts of where we've been
+> Your shadow is lingering over my bed
+> These tangled sad memories spin in my head
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
